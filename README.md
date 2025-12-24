@@ -1,7 +1,6 @@
 # 🚀 Intelligent Rover Navigation System using Reflex Agents & Hierarchical A*
 
 **Course:** CSE518 – Artificial Intelligence  
-**Team:** Group 7  
 **Language:** Python  
 
 ---
