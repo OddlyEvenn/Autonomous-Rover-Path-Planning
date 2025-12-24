@@ -39,10 +39,10 @@ All detailed design explanations, algorithms, flowcharts, and analysis are docum
 ## 📊 Evaluation & Comparisons
 
 - **Heuristic performance comparison:**  
-  `Group7_Comparison_file_Part2.ipynb`
+  `Comparison_file.ipynb`
 
 - **Standard A* vs Utility-based A* comparison:**  
-  `Group7_Standard_vs_Utility_Astar_Comparison.ipynb`
+  `Standard_vs_Utility_Astar_Comparison.ipynb`
 
 ---
 
@@ -55,7 +55,7 @@ Rover simulation and execution videos are included in the repository to demonstr
 ## ▶️ How to Run
 
 ```bash
-python Group7_AI_Project.py
+python main.py
 ```
 
 For analysis and comparison results, open the provided Jupyter notebooks.
