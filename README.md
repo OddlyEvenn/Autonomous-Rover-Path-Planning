@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This project implements an intelligent rover navigation system that integrates **reflex-based real-time control** with **hierarchical, battery-aware A\*** path planning. The rover dynamically adapts to obstacles, hazards, cliffs, traps, terrain costs, and battery limitations. A **utility-based cost model** is used to balance safe navigation with scientifically valuable exploration.
+This project implements an intelligent rover navigation system that integrates **reflex-based real-time control** with **hierarchical, battery-aware A\*** path planning. The rover dynamically adapts to obstacles, hazards, cliffs, traps, terrain costs, and battery limitations. A **utility-based cost model** is also used to balance safe navigation with scientifically valuable exploration.
 
 All detailed design explanations, algorithms, flowcharts, and analysis are documented in the **project report**, which is included in this GitHub repository.
 
@@ -71,4 +71,4 @@ For analysis and comparison results, open the provided Jupyter notebooks.
 
 ## 📄 Note
 
-This project was developed for academic purposes as part of **CSE518 – Artificial Intelligence**.
+This project was developed for academic purposes as part of **CSE518–Artificial Intelligence**.
